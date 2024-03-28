@@ -5,7 +5,7 @@
 namespace QLBH.Migrations
 {
     /// <inheritdoc />
-    public partial class taobangproductCategoryvaProductImage : Migration
+    public partial class TaobangproductCategoryvaProductImage : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

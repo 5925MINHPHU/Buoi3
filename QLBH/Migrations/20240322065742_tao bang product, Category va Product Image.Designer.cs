@@ -12,7 +12,7 @@ namespace QLBH.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     [Migration("20240322065742_tao bang product, Category va Product Image")]
-    partial class taobangproductCategoryvaProductImage
+    partial class TaobangproductCategoryvaProductImage
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
